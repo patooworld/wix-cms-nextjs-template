@@ -672,14 +672,14 @@ __metadata:
   linkType: hard
 
 "@prisma/client@npm:^5.5.2":
-  version: 5.16.2
-  resolution: "@prisma/client@npm:5.16.2"
+  version: 5.18.0
+  resolution: "@prisma/client@npm:5.18.0"
   peerDependencies:
     prisma: "*"
   peerDependenciesMeta:
     prisma:
       optional: true
-  checksum: a33ac12c771eda289009351dabb3720130c98c4a94e4485fb40ebe9c192dd2fec765bad715babbe7c048525f8a9e93bc7df884d8206955d365b9c56d1d68a47d
+  checksum: 204c2fedc3b0e98741d4f4661d38e5fe19838a8f4804a546b558d564e994d4b291c4513c2316866498548bb569b465e1767f04f26a87737993095e7d5c3c6f93
   languageName: node
   linkType: hard
 
